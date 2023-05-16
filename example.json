@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "image": "",
+  "DefiLlamaLink": "",
+  "recipient": "",
+  "collateralToken": "",
+  "preferredTerms": {
+    "apy": "",
+    "poolId": "",
+    "ltv": ""
+  },
+  "borrowingToken": ""
+}
