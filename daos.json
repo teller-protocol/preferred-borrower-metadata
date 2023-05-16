@@ -20,8 +20,8 @@
       "recipient": "0x",
       "collateralToken": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
       "preferredTerms": {
-        "apy": "",
-        "poolId": "",
+        "apy": "1000",
+        "poolId": "16",
         "ltv": "5000"
       },
       "borrowingToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
