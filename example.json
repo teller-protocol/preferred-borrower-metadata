@@ -4,6 +4,7 @@
   "DefiLlamaLink": "",
   "recipient": "",
   "collateralToken": "",
+  "collateralTokenType": "",
   "preferredTerms": {
     "apy": "",
     "poolId": "",

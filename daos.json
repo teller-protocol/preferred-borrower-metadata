@@ -6,6 +6,7 @@
       "DefiLlamaLink": "https://defillama.com/protocol/rocket-pool",
       "recipient": "0x",
       "collateralToken": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+      "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "700",
         "poolId": "9",
@@ -19,6 +20,7 @@
       "DefiLlamaLink": "https://defillama.com/protocol/idle",
       "recipient": "0x",
       "collateralToken": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+      "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "1000",
         "poolId": "16",
@@ -34,6 +36,7 @@
       "DefiLlamaLink": "https://defillama.com/protocol/quickswap",
       "recipient": "0x",
       "collateralToken": "0x958d208cdf087843e9ad98d23823d32e17d723a1",
+      "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "1000",
         "poolId": "33",
@@ -47,6 +50,7 @@
       "DefiLlamaLink": "https://defillama.com/protocol/polytrade",
       "recipient": "0xbad95c0febbcc6b4851cf6c6a330fb2ec34e06c1",
       "collateralToken": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+      "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "700",
         "poolId": "10",
