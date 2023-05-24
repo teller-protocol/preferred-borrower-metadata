@@ -35,7 +35,7 @@
       "image": "https://avatars.githubusercontent.com/u/77100292?s=280&v=4",
       "defiLlamaLink": "https://defillama.com/protocol/quickswap",
       "recipient": "0x",
-      "collateralToken": "0x958d208cdf087843e9ad98d23823d32e17d723a1",
+      "collateralToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
       "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "1000",
