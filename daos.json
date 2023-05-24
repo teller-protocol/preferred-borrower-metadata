@@ -4,7 +4,7 @@
       "name": "Rocket Pool",
       "image": "https://altcoinsbox.com/wp-content/uploads/2023/03/rocket-pool-logo.webp",
       "defiLlamaLink": "https://defillama.com/protocol/rocket-pool",
-      "recipient": "0x",
+      "recipient": "0x00C33DE2AA4Ee25828CF5a8901ed1f736371dD5A",
       "collateralToken": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
       "collateralTokenType": "1",
       "preferredTerms": {
@@ -18,7 +18,7 @@
       "name": "Idle",
       "image": "https://pbs.twimg.com/profile_images/1534987371334320139/2VIS6dXl_400x400.jpg",
       "defiLlamaLink": "https://defillama.com/protocol/idle",
-      "recipient": "0x",
+      "recipient": "0x00C33DE2AA4Ee25828CF5a8901ed1f736371dD5A",
       "collateralToken": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
       "collateralTokenType": "1",
       "preferredTerms": {
@@ -34,7 +34,7 @@
       "name": "Quickswap",
       "image": "https://avatars.githubusercontent.com/u/77100292?s=280&v=4",
       "defiLlamaLink": "https://defillama.com/protocol/quickswap",
-      "recipient": "0x",
+      "recipient": "0x00C33DE2AA4Ee25828CF5a8901ed1f736371dD5A",
       "collateralToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
       "collateralTokenType": "1",
       "preferredTerms": {
@@ -53,7 +53,7 @@
       "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "700",
-        "poolId": "10",
+        "poolId": "41",
         "ltv": "5000"
       },
       "borrowingToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
