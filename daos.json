@@ -1,49 +1,21 @@
 {
   "1": [
     {
-      "name": "Rocket Pool",
-      "image": "https://altcoinsbox.com/wp-content/uploads/2023/03/rocket-pool-logo.webp",
-      "defiLlamaLink": "https://defillama.com/protocol/rocket-pool",
-      "recipient": "0x00C33DE2AA4Ee25828CF5a8901ed1f736371dD5A",
-      "collateralToken": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+      "name": "Polytrade",
+      "image": "https://styles.redditmedia.com/t5_5hssfc/styles/communityIcon_mbxo2ka8enc81.jpg",
+      "defiLlamaLink": "https://defillama.com/protocol/polytrade",
+      "recipient": "0xbad95c0febbcc6b4851cf6c6a330fb2ec34e06c1",
+      "collateralToken": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
       "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "700",
-        "poolId": "9",
+        "poolId": "2",
         "ltv": "5000"
       },
-      "borrowingToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    },
-    {
-      "name": "Idle",
-      "image": "https://pbs.twimg.com/profile_images/1534987371334320139/2VIS6dXl_400x400.jpg",
-      "defiLlamaLink": "https://defillama.com/protocol/idle",
-      "recipient": "0x00C33DE2AA4Ee25828CF5a8901ed1f736371dD5A",
-      "collateralToken": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
-      "collateralTokenType": "1",
-      "preferredTerms": {
-        "apy": "1000",
-        "poolId": "16",
-        "ltv": "5000"
-      },
-      "borrowingToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      "borrowingToken": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
     }
   ],
   "137": [
-    {
-      "name": "Quickswap",
-      "image": "https://avatars.githubusercontent.com/u/77100292?s=280&v=4",
-      "defiLlamaLink": "https://defillama.com/protocol/quickswap",
-      "recipient": "0x00C33DE2AA4Ee25828CF5a8901ed1f736371dD5A",
-      "collateralToken": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
-      "collateralTokenType": "1",
-      "preferredTerms": {
-        "apy": "1000",
-        "poolId": "33",
-        "ltv": "5000"
-      },
-      "borrowingToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
-    },
     {
       "name": "Polytrade",
       "image": "https://styles.redditmedia.com/t5_5hssfc/styles/communityIcon_mbxo2ka8enc81.jpg",
