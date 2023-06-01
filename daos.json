@@ -9,7 +9,7 @@
       "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "700",
-        "poolId": "2",
+        "poolId": "16",
         "ltv": "5000"
       },
       "borrowingToken": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
