@@ -23,11 +23,11 @@
       "collateralToken": "0x51416C00388bB4644E28546c77AEe768036F17A8",
       "collateralTokenType": "1",
       "preferredTerms": {
-        "apy": "2000",
+        "apy": "1000",
         "poolId": "33",
         "ltv": "10000"
       },
-      "borrowingToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+      "borrowingToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
     }
   ]
 }
