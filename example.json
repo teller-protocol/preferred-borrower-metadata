@@ -8,7 +8,7 @@
   "preferredTerms": {
     "apy": "",
     "poolId": "",
-    "ltv": ""
+    "collateralRatio": ""
   },
   "borrowingToken": ""
 }
