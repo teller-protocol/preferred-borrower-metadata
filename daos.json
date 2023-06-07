@@ -23,7 +23,7 @@
       "collateralToken": "0x51416C00388bB4644E28546c77AEe768036F17A8",
       "collateralTokenType": "1",
       "preferredTerms": {
-        "apy": "2000",
+        "apy": "1000",
         "poolId": "33",
         "ltv": "10000"
       },
