@@ -1,17 +1,14 @@
 {
   "1": [
     {
-      "name": "vitalik.eth",
-      "link": "https://twitter.com/VitalikButerin",
-      "recipient": "0x12345",
-      "collateralToken": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
-      "TokenId": "79233663829379634837589865448569342784712482819484549289560981379859480642508",
+      "EnsName": "vitalik.eth",
+      "socialMediaLink": "https://twitter.com/VitalikButerin",
+      "yourWalletAddress": "0x12345",
       "preferredTerms": {
-        "apy": "1000",
-        "poolId": "41",
-        "loanAmount(inBorrowingToken)": "500000000000000000000"
-      },
-      "borrowingToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        "apy": "10",
+        "duration(days)": "30",
+        "loanAmount(Weth)": "5"
+      }
     }
   ]
 }
