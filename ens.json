@@ -1,0 +1,17 @@
+{
+  "1": [
+    {
+      "EnsName": "vitalik.eth",
+      "socialMediaLink": "https://twitter.com/VitalikButerin",
+      "collateralToken": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+      "tokenId": "79233663829379634837589865448569342784712482819484549289560981379859480642508",
+      "walletAddress": "0x12345",
+      "preferredTerms": {
+        "apy": "10000",
+        "poolId": "9",
+        "loanAmount(inBorrowingToken)": "500000000000000000000"
+      },
+      "borrowingToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    }
+  ]
+}
