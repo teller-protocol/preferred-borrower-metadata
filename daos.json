@@ -20,14 +20,14 @@
       "image": "https://teller.mypinata.cloud/ipfs/QmUcmpg3Sr8pv351kH28NhwuMRqQayGT2FdEBpUQnPKGmK",
       "defiLlamaLink": "https://defillama.com/protocol/teller",
       "recipient": "0xfE08B280F147241141bc70FfB3e90009A9B132b2",
-      "collateralToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "collateralToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "collateralTokenType": "1",
       "preferredTerms": {
         "apy": "1000",
         "poolId": "33",
         "collateralRatio": "10000"
       },
-      "borrowingToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+      "borrowingToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
     }
   ]
 }
