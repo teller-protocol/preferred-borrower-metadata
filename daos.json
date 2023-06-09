@@ -19,7 +19,7 @@
       "name": "Teller",
       "image": "https://teller.mypinata.cloud/ipfs/QmUcmpg3Sr8pv351kH28NhwuMRqQayGT2FdEBpUQnPKGmK",
       "defiLlamaLink": "https://defillama.com/protocol/teller",
-      "recipient": "0xfE08B280F147241141bc70FfB3e90009A9B132b2",
+      "recipient": "0x0854d0C201FD3f9E0ae2341C92b28d289234549C",
       "collateralToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "collateralTokenType": "1",
       "preferredTerms": {
