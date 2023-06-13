@@ -1,7 +1,7 @@
 {
   "1": [
     {
-      "name": "Teller",
+      "name": "Teller WETH Loans",
       "image": "https://teller.mypinata.cloud/ipfs/QmUcmpg3Sr8pv351kH28NhwuMRqQayGT2FdEBpUQnPKGmK",
       "defiLlamaLink": "https://defillama.com/protocol/teller",
       "recipient": "0xbCEcb01aA1A34121Ffb839B4A0A810A95d2F025b",
@@ -15,7 +15,7 @@
       "borrowingToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
     },
     {
-      "name": "Teller",
+      "name": "Teller USDC Loans",
       "image": "https://teller.mypinata.cloud/ipfs/QmUcmpg3Sr8pv351kH28NhwuMRqQayGT2FdEBpUQnPKGmK",
       "defiLlamaLink": "https://defillama.com/protocol/teller",
       "recipient": "0x4dA920a6B91d41aaA74A2d31e628191B7B73189e",
