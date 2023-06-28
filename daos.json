@@ -1,18 +1,18 @@
 {
   "1": [
     {
-      "name": "Teller WETH Loans",
-      "image": "https://teller.mypinata.cloud/ipfs/QmUcmpg3Sr8pv351kH28NhwuMRqQayGT2FdEBpUQnPKGmK",
-      "defiLlamaLink": "https://defillama.com/protocol/teller",
-      "recipient": "0xbCEcb01aA1A34121Ffb839B4A0A810A95d2F025b",
-      "collateralToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "Idle Fasanara LP Tokens",
+      "image": "https://teller.mypinata.cloud/ipfs/QmZbs6XwXoi5LH2WYUQ4RtpdQC2pMRwh5na28aGoQu4bSV",
+      "defiLlamaLink": "https://defillama.com/protocol/idle",
+      "recipient": "",
+      "collateralToken": "0xdcA1daE87f5c733c84e0593984967ed756579BeE",
       "collateralTokenType": "1",
       "preferredTerms": {
-        "apy": "2500",
+        "apy": "425",
         "poolId": "9",
-        "collateralRatio": "13500"
+        "collateralRatio": "1053"
       },
-      "borrowingToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+      "borrowingToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
     },
     {
       "name": "Teller USDC Loans",
