@@ -41,7 +41,6 @@
       "address": "0x64b76158c3a9176b0ef6c00d1b957f10c07663d8",
       "symbol": "xFT-V2T2",
       "decimals": 18,
-      "chainId": 1,
       "logoURI": "https://images.nftx.io/cdn-cgi/image/anim=false,width=150,height=150,format=auto/https://assets.nftx.io/vaults-v2/811/256x256.png"
     },
     {
@@ -49,7 +48,6 @@
       "address": "0x8e903856407d1C0cc90Fa273130f3605EcE6Cd01",
       "symbol": "xFT-V2T3",
       "decimals": 18,
-      "chainId": 1,
       "logoURI": "https://i.seadn.io/gae/B0aieAclaVoCQOSmVo1Y0v2HfteNeWb5KIt6jh3C4z1nkJhYCKGh1oA9ckspZy55e6XFyrcMvy0FuAulfFrHl3Ftj5RbqvDvAtNG5Q?w=500&auto=format"
     },
     {
@@ -57,7 +55,6 @@
       "address": "0x6CF9bFc9A177fC5047FD006Eb0cC990f2F3CBc0E",
       "symbol": "xFT-V2T1WETH",
       "decimals": 18,
-      "chainId": 1,
       "logoURI": "https://images.nftx.io/cdn-cgi/image/anim=false,width=150,height=150,format=auto/https://assets.nftx.io/vaults-v2/810/256x256.png"
     },
     {
@@ -65,7 +62,6 @@
       "address": "0x5E6C4dc4D2B710D2337d6ef184c1Efc1e32dc43a",
       "symbol": "xFT-V2T2WETH",
       "decimals": 18,
-      "chainId": 1,
       "logoURI": "https://images.nftx.io/cdn-cgi/image/anim=false,width=150,height=150,format=auto/https://assets.nftx.io/vaults-v2/811/256x256.png"
     },
     {
@@ -73,7 +69,6 @@
       "address": "0x5A8676cd4882A7049e80d82a6FaC47f3d2cdA169",
       "symbol": "xFT-V2T3WETH",
       "decimals": 18,
-      "chainId": 1,
       "logoURI": "https://i.seadn.io/gae/B0aieAclaVoCQOSmVo1Y0v2HfteNeWb5KIt6jh3C4z1nkJhYCKGh1oA9ckspZy55e6XFyrcMvy0FuAulfFrHl3Ftj5RbqvDvAtNG5Q?w=500&auto=format"
     }
   ]
