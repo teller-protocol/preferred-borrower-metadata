@@ -1,0 +1,252 @@
+{
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://s2.tokeninsight.com/static/coins/img/currency/WrappedMatic_WMATIC.jpeg"
+    },
+    {
+      "name": "Pepe",
+      "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "symbol": "PEPE",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/pepe_32.png"
+    },
+    {
+      "name": "eUSD",
+      "address": "0x97de57ec338ab5d51557da3434828c5dbfada371",
+      "symbol": "eUSD",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://lybra.finance/images/usdlLogo.png"
+    },
+    {
+      "name": "FT V2 Tier 1",
+      "address": "0x6340cE0f2b9271B59AB89D1320fBe1A51b6Fdde7",
+      "symbol": "xFT-V2T1",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://images.nftx.io/cdn-cgi/image/anim=false,width=150,height=150,format=auto/https://assets.nftx.io/vaults-v2/810/256x256.png"
+    },
+    {
+      "name": "FT V2 Tier 2",
+      "address": "0x64b76158c3a9176b0ef6c00d1b957f10c07663d8",
+      "symbol": "xFT-V2T2",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://images.nftx.io/cdn-cgi/image/anim=false,width=150,height=150,format=auto/https://assets.nftx.io/vaults-v2/811/256x256.png"
+    },
+    {
+      "name": "FT V2 Tier 3",
+      "address": "0x8e903856407d1C0cc90Fa273130f3605EcE6Cd01",
+      "symbol": "xFT-V2T3",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://i.seadn.io/gae/B0aieAclaVoCQOSmVo1Y0v2HfteNeWb5KIt6jh3C4z1nkJhYCKGh1oA9ckspZy55e6XFyrcMvy0FuAulfFrHl3Ftj5RbqvDvAtNG5Q?w=500&auto=format"
+    },
+    {
+      "name": "FT V2 LP Tier 1",
+      "address": "0x6CF9bFc9A177fC5047FD006Eb0cC990f2F3CBc0E",
+      "symbol": "xFT-V2T1WETH",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://images.nftx.io/cdn-cgi/image/anim=false,width=150,height=150,format=auto/https://assets.nftx.io/vaults-v2/810/256x256.png"
+    },
+    {
+      "name": "FT V2 LP Tier 2",
+      "address": "0x5E6C4dc4D2B710D2337d6ef184c1Efc1e32dc43a",
+      "symbol": "xFT-V2T2WETH",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://images.nftx.io/cdn-cgi/image/anim=false,width=150,height=150,format=auto/https://assets.nftx.io/vaults-v2/811/256x256.png"
+    },
+    {
+      "name": "FT V2 LP Tier 3",
+      "address": "0x5A8676cd4882A7049e80d82a6FaC47f3d2cdA169",
+      "symbol": "xFT-V2T3WETH",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://i.seadn.io/gae/B0aieAclaVoCQOSmVo1Y0v2HfteNeWb5KIt6jh3C4z1nkJhYCKGh1oA9ckspZy55e6XFyrcMvy0FuAulfFrHl3Ftj5RbqvDvAtNG5Q?w=500&auto=format"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "symbol": "DAI",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "symbol": "WBTC",
+      "chainId": 137,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "name": "The Sandbox",
+      "symbol": "SAND",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/the-sandbox-sand-logo.png"
+    },
+    {
+      "chainId": 137,
+      "name": "WOO Network",
+      "symbol": "WOO",
+      "logoURI": "https://cryptologos.cc/logos/wootrade-woo-logo.png",
+      "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+      "decimals": 18
+    },
+    {
+      "name": "Gains Network",
+      "address": "0xe5417af564e4bfda1c483642db72007871397896",
+      "symbol": "GNS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://pbs.twimg.com/profile_images/1452915857630318593/-OLflgJl_400x400.jpg"
+    },
+    {
+      "name": "Stargate",
+      "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "symbol": "STG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://pbs.twimg.com/profile_images/1453865643053182980/s9_nNOkD_400x400.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+      "name": "Aavegotchi",
+      "symbol": "GHST",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/7046.png"
+    },
+    {
+      "name": "Curve DAO Token",
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/aave-aave-logo.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "name": "Dimo",
+      "address": "0xE261D618a959aFfFd53168Cd07D12E37B26761db",
+      "symbol": "DIMO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://pbs.twimg.com/profile_images/1513193957471277067/KZe8h-tA_400x400.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+      "name": "Decentraland",
+      "symbol": "MANA",
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1597286054150692866/bQsP8fFn_400x400.jpg"
+    },
+    {
+      "name": "Aave Matic Market USDC",
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "symbol": "amUSDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/17249/large/amUSDC_2x.png?1626941306"
+    },
+    {
+      "name": "Aave Matic Market WETH",
+      "address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
+      "symbol": "amWETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/17266/large/amWETH_2x.png?1626967258"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://s2.tokeninsight.com/static/coins/img/currency/WrappedMatic_WMATIC.jpeg"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
+  ]
+}
