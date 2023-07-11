@@ -2,7 +2,7 @@
   {
     "title": "3 Digit Palindromes",
     "slug":"3-digit-palindromes",
-    "merkle_file_path":"3-digit-palindromes",
+    "merkle_file_name":"3-digit-palindromes",
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmYiNp8Zm1UR2N9o578yR91LCchKrYFRCnpgPe1uvfLiFG",
     "assets": [
       {
@@ -30,7 +30,7 @@
   {
     "title": "999 Club",
     "slug":"999-club",
-    "merkle_file_path":"999-club", 
+    "merkle_file_name":"999-club", 
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmcYh9vGkNeqK9cqXVFJHCKqSAzr9u3GrbXuny4dEarAhj",
     "assets": [
       {
@@ -66,7 +66,7 @@
   {
     "title": "Pokemon Gen 1",
     "slug":"pokemon-gen-1",
-    "merkle_file_path":"pokemon-gen-1", 
+    "merkle_file_name":"pokemon-gen-1", 
     
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmUr4jPtXg84Qk7MQMp6NCrKHzorG1xBuGeroVZXx6utHn",
     "assets": [
@@ -107,7 +107,7 @@
   {
     "title": "4 Digit Palindromes",
     "slug":"4-digit-palindromes",
-    "merkle_file_path":"4-digit-palindromes",  
+    "merkle_file_name":"4-digit-palindromes",  
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmUEYKQg5mp8MuV17qYpQQeeZ7aNoCzRrJEp5SRL6DL1v5",
     "assets": [
       {
@@ -131,7 +131,7 @@
   {
     "title": "10K Club",
     "slug":"10k-club",
-    "merkle_file_path":"10k-club",   
+    "merkle_file_name":"10k-club",   
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmZyULas85cVewJZX6iLnqyQJ6DnjndieP1xivFfmCP18a",
     "assets": [
       {
@@ -186,7 +186,7 @@
   },
   {
     "title": "Social", 
-    "merkle_file_path":"social",    
+    "merkle_file_name":"social",    
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmQqn1BAwQGpXkhM2HZr1eFLaMmRaFkArWfd8mRViAKz1d",
     "assets": [
       {
