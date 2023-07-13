@@ -178,11 +178,6 @@
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmQqn1BAwQGpXkhM2HZr1eFLaMmRaFkArWfd8mRViAKz1d",
     "assets": [
       {
-        "tokenId": "75129213453397242459562025085105532814690502918435909762942920366344527305120",
-        "name": "brainvomit.eth",
-        "twitterHandle": "steven__rea"
-      },
-      {
         "tokenId": "61336861295422008268367865413887654453113576427958433288476528444436045969443",
         "name": "domainplug.eth",
         "twitterHandle": "BloomCapital_"
