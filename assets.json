@@ -499,8 +499,7 @@
         ]
       },
       {
-        "title": "Social",
-        "merkleFileName": "social",
+        "title": "Social", 
         "imageURL": "https://teller.mypinata.cloud/ipfs/QmQqn1BAwQGpXkhM2HZr1eFLaMmRaFkArWfd8mRViAKz1d",
         "assets": [
           {
