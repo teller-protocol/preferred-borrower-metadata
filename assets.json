@@ -499,7 +499,7 @@
         ]
       },
       {
-        "title": "Social", 
+        "title": "Social",
         "imageURL": "https://teller.mypinata.cloud/ipfs/QmQqn1BAwQGpXkhM2HZr1eFLaMmRaFkArWfd8mRViAKz1d",
         "assets": [
           {
@@ -575,8 +575,8 @@
         "imageURL": "https://cryptologos.cc/logos/arbitrum-arb-logo.svg?v=025",
         "assets": [
           {
-            "tokenId": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-            "name": "ARB/USDC"
+            "tokenId": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "name": "ARB/USDC.e"
           },
           {
             "tokenId": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
@@ -585,8 +585,8 @@
         ]
       },
       {
-        "title": "Lend USDC",
-        "principalToken": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "title": "Lend USDC.e",
+        "principalToken": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
         "assets": [
           {
@@ -609,8 +609,8 @@
             "name": "WETH/ARB"
           },
           {
-            "tokenId": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-            "name": "WETH/USDC"
+            "tokenId": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "name": "WETH/USDC.e"
           }
         ]
       }
