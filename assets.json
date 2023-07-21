@@ -591,11 +591,11 @@
         "assets": [
           {
             "tokenId": "0x912CE59144191C1204E64559FE8253a0e49E6548",
-            "name": "USDC/ARB"
+            "name": "USDC.e/ARB"
           },
           {
             "tokenId": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-            "name": "USDC/WETH"
+            "name": "USDC.e/WETH"
           }
         ]
       },
