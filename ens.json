@@ -202,6 +202,24 @@
     ]
   },
   {
+    "title": "Japanese Pokemon ENS",
+    "imageURL": "https://teller.mypinata.cloud/ipfs/QmSEnE731L88G5aRKaPRLYSjqH8un7opgBFqQyv2pao1Bz",
+    "assets": [
+      {
+        "tokenId": "68220883068607489556436360839363716775979718989984271722981643440425098952930",
+        "name": "フシギダネ.eth"
+      },
+      {
+        "tokenId": "97407680935634923877839962068686972411690596552104216729224784183722874988137",
+        "name": "フシギソウ.eth"
+      },
+      {
+        "tokenId": "38538284894285989417691930766793164513461407369497376968095811412791356519300",
+        "name": "フシギバナ.eth"
+      }
+    ]
+  },
+  {
     "title": "Social",
     "imageURL": "https://teller.mypinata.cloud/ipfs/QmQqn1BAwQGpXkhM2HZr1eFLaMmRaFkArWfd8mRViAKz1d",
     "assets": [
