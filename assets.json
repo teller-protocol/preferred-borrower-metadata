@@ -1,7 +1,45 @@
 {
   "1": {
-    "title": "Lend to ENS Names",
+    "title": "",
     "assets": [
+      {
+        "title": "Lend USDC",
+        "principalToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "assets": [
+          {
+            "tokenId": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "name": "USDC/WETH"
+          },
+          {
+            "tokenId": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+            "name": "USDC/PEPE"
+          },
+          {
+            "tokenId": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
+            "name": "USDC/UNIBOT"
+          }
+        ]
+      },
+      {
+        "title": "Lend WETH",
+        "principalToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "assets": [
+          {
+            "tokenId": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "name": "WETH/USDC"
+          },
+          {
+            "tokenId": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+            "name": "WETH/PEPE"
+          },
+          {
+            "tokenId": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
+            "name": "WETH/UNIBOT"
+          }
+        ]
+      },
       {
         "title": "3 Digit Palindromes",
         "slug": "3-digit-palindromes",
