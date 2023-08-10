@@ -1,33 +1,5 @@
 {
   "1": [
-    {
-      "name": "Idle Fasanara LP Tokens",
-      "image": "https://teller.mypinata.cloud/ipfs/QmeQX2745AmxMKzSLzZomHBJdeW8fqT3TioT6MP7mEkC7Y",
-      "defiLlamaLink": "https://defillama.com/protocol/idle",
-      "recipient": "",
-      "collateralToken": "0xdcA1daE87f5c733c84e0593984967ed756579BeE",
-      "collateralTokenType": "1",
-      "preferredTerms": {
-        "apy": "425",
-        "poolId": "9",
-        "collateralRatio": "10500"
-      },
-      "borrowingToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    },
-    {
-      "name": "Teller USDC Loans",
-      "image": "https://teller.mypinata.cloud/ipfs/QmUcmpg3Sr8pv351kH28NhwuMRqQayGT2FdEBpUQnPKGmK",
-      "defiLlamaLink": "https://defillama.com/protocol/teller",
-      "recipient": "0x4dA920a6B91d41aaA74A2d31e628191B7B73189e",
-      "collateralToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "collateralTokenType": "1",
-      "preferredTerms": {
-        "apy": "2500",
-        "poolId": "9",
-        "collateralRatio": "13500"
-      },
-      "borrowingToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
-    }
   ],
   "137": [
     {
