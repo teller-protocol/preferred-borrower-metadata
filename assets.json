@@ -232,7 +232,9 @@
             "name": "フシギバナ.eth"
           }
         ]
-      },
+      }
+    ]
+  },
   "5": {
     "title": "Lend to ENS Names",
     "assets": [
