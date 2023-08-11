@@ -602,6 +602,10 @@
           {
             "tokenId": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "name": "USDC.e/WETH"
+          },
+          {
+            "tokenId": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+            "name": "USDC.e/PENDLE"
           }
         ]
       },
@@ -617,6 +621,10 @@
           {
             "tokenId": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
             "name": "WETH/USDC.e"
+          },
+          {
+            "tokenId": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+            "name": "WETH/PENDLE"
           }
         ]
       }
