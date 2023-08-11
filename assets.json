@@ -606,14 +606,6 @@
           {
             "tokenId": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
             "name": "USDC.e/PENDLE"
-          },
-          {
-            "tokenId": "0x96015D0Fb97139567a9ba675951816a0Bb719E3c",
-            "name": "USDC.e/PT-GLP"
-          },
-          {
-            "tokenId": "0x1684B747cd46858aE6312A7074353D2101154eF7",
-            "name": "USDC.e/PT-gDAI"
           }
         ]
       },
@@ -633,14 +625,6 @@
           {
             "tokenId": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
             "name": "WETH/PENDLE"
-          },
-          {
-            "tokenId": "0x96015D0Fb97139567a9ba675951816a0Bb719E3c",
-            "name": "WETH/PT-GLP"
-          },
-          {
-            "tokenId": "0x1684B747cd46858aE6312A7074353D2101154eF7",
-            "name": "WETH/PT-gDAI"
           }
         ]
       }
