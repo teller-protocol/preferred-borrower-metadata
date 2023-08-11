@@ -18,6 +18,14 @@
           {
             "tokenId": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
             "name": "USDC/UNIBOT"
+          },
+          {
+            "tokenId": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
+            "name": "USDC/RLB"
+          },
+          {
+            "tokenId": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+            "name": "USDC/BITCOIN"
           }
         ]
       },
@@ -37,6 +45,14 @@
           {
             "tokenId": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
             "name": "WETH/UNIBOT"
+          },
+          {
+            "tokenId": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
+            "name": "WETH/RLB"
+          },
+          {
+            "tokenId": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+            "name": "WETH/BITCOIN"
           }
         ]
       },
