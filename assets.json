@@ -268,25 +268,24 @@
           }
         ]
       },
+
       {
-        "title": "Japanese Pokemon ENS",
-        "merkleFileName": "japanese-pokemon",
-        "imageURL": "https://teller.mypinata.cloud/ipfs/QmSEnE731L88G5aRKaPRLYSjqH8un7opgBFqQyv2pao1Bz",
-        "assets": [
-          {
-            "tokenId": "68220883068607489556436360839363716775979718989984271722981643440425098952930",
-            "name": "フシギダネ.eth"
-          },
-          {
-            "tokenId": "97407680935634923877839962068686972411690596552104216729224784183722874988137",
-            "name": "フシギソウ.eth"
-          },
-          {
-            "tokenId": "38538284894285989417691930766793164513461407369497376968095811412791356519300",
-            "name": "フシギバナ.eth"
-          }
-        ]
-      }
+        "title": "Pokemon Gen 2",
+        "slug": "pokemon-gen-2",
+        "merkleFileName": "pokemon-gen-2",
+        "imageURL": "https://teller.mypinata.cloud/ipfs/QmUr4jPtXg84Qk7MQMp6NCrKHzorG1xBuGeroVZXx6utHn",
+        "assets": []
+      },
+
+      {
+        "title": "Pokemon Gen 3",
+        "slug": "pokemon-gen-3",
+        "merkleFileName": "pokemon-gen-3",
+        "imageURL": "https://teller.mypinata.cloud/ipfs/QmUr4jPtXg84Qk7MQMp6NCrKHzorG1xBuGeroVZXx6utHn",
+        "assets": []
+      } 
+
+      
     ]
   },
   "5": {
