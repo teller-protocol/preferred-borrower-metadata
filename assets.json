@@ -26,6 +26,18 @@
           {
             "tokenId": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
             "name": "USDC/BITCOIN"
+          },
+          {
+            "tokenId": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
+            "name": "USDC/OX"
+          },
+          {
+            "tokenId": "0xf1182229b71e79e504b1d2bf076c15a277311e05",
+            "name": "USDC/LBR"
+          },
+          {
+            "tokenId": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+            "name": "USDC/gOHM"
           }
         ]
       },
@@ -275,10 +287,7 @@
         "merkleFileName": "pokemon-gen-2",
         "imageURL": "https://teller.mypinata.cloud/ipfs/QmUr4jPtXg84Qk7MQMp6NCrKHzorG1xBuGeroVZXx6utHn",
         "assets": []
-      } 
-
-      
-      
+      }
     ]
   },
   "5": {
