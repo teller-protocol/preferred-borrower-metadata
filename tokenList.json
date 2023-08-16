@@ -57,6 +57,22 @@
       "logoURI": "https://etherscan.io/token/images/pepe_32.png"
     },
     {
+      "name": "Lybra Finance",
+      "address": "0xf1182229b71e79e504b1d2bf076c15a277311e05",
+      "symbol": "LBR",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/29958/large/Lybra_Finance.png?1682485104"
+    },
+    {
+      "name": "Open Exchange Token",
+      "address": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f",
+      "symbol": "OX",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/30604/large/Logo2.png?1685522119"
+    },
+    {
       "name": "eUSD",
       "address": "0x97de57ec338ab5d51557da3434828c5dbfada371",
       "symbol": "eUSD",
