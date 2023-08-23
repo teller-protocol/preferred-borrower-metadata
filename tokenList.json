@@ -295,6 +295,30 @@
       "decimals": 6,
       "chainId": 8453,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Echelon Prime",
+      "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+      "symbol": "PRIME",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1684901261"
+    },
+    {
+      "name": "HarryPotterObamaPacMan8Inu",
+      "address": "0x07e0edf8ce600fb51d44f51e3348d77d67f298ae",
+      "symbol": "XRP",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/31241/large/Pacman_Logo200x200.png?1691717643"
+    },
+    {
+      "name": "Mog Coin",
+      "address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+      "symbol": "MOG",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/31059/large/mog_logo.png?1689931973"
     }
   ]
 }
