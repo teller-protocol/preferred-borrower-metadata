@@ -718,6 +718,10 @@
           {
             "tokenId": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
             "name": "USDC/MANA"
+          },
+          {
+            "tokenId": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+            "name": "USDC/TRADE"
           }
         ]
       },
