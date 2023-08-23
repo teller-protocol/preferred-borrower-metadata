@@ -2,47 +2,5 @@
   "1": [
   ],
   "137": [
-    {
-      "name": "Polytrade",
-      "image": "https://styles.redditmedia.com/t5_5hssfc/styles/communityIcon_mbxo2ka8enc81.jpg",
-      "defiLlamaLink": "https://defillama.com/protocol/polytrade",
-      "recipient": "0xbad95c0febbcc6b4851cf6c6a330fb2ec34e06c1",
-      "collateralToken": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
-      "collateralTokenType": "1",
-      "preferredTerms": {
-        "apy": "700",
-        "poolId": "41",
-        "collateralRatio": "20000"
-      },
-      "borrowingToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
-    },
-    {
-      "name": "Teller",
-      "image": "https://teller.mypinata.cloud/ipfs/QmUcmpg3Sr8pv351kH28NhwuMRqQayGT2FdEBpUQnPKGmK",
-      "defiLlamaLink": "https://defillama.com/protocol/teller",
-      "recipient": "0x0854d0C201FD3f9E0ae2341C92b28d289234549C",
-      "collateralToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-      "collateralTokenType": "1",
-      "preferredTerms": {
-        "apy": "1000",
-        "poolId": "33",
-        "collateralRatio": "10000"
-      },
-      "borrowingToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
-    },
-    {
-      "name": "GET, Event Financing",
-      "image": "https://pbs.twimg.com/profile_images/1390324349320761348/1RXgWX74_400x400.png",
-      "defiLlamaLink": "https://defillama.com/protocol/get-protocol",
-      "recipient": "0x0051426df3F52B0A6E61cD8FA764601Bfad5A968",
-      "collateralToken": "0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4",
-      "collateralTokenType": "4",
-      "preferredTerms": {
-        "apy": "1000",
-        "poolId": "33",
-        "collateralRatio": "14300"
-      },
-      "borrowingToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
-    }
   ]
 }
