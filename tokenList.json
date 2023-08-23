@@ -302,7 +302,7 @@
       "symbol": "PRIME",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1684901261"
+      "logoURI": "https://assets.coingecko.com/coins/images/29053/small/prime-logo-small-border_%282%29.png?1684901261"
     },
     {
       "name": "HarryPotterObamaPacMan8Inu",
@@ -310,7 +310,7 @@
       "symbol": "XRP",
       "decimals": 8,
       "chainId": 1,
-      "logoURI": "https://assets.coingecko.com/coins/images/31241/large/Pacman_Logo200x200.png?1691717643"
+      "logoURI": "https://assets.coingecko.com/coins/images/31241/small/Pacman_Logo200x200.png?1691717643"
     },
     {
       "name": "Mog Coin",
@@ -318,7 +318,7 @@
       "symbol": "MOG",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://assets.coingecko.com/coins/images/31059/large/mog_logo.png?1689931973"
+      "logoURI": "https://assets.coingecko.com/coins/images/31059/small/mog_logo.png?1689931973"
     }
   ]
 }
