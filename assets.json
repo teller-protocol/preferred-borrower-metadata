@@ -658,4 +658,129 @@
       }
     ]
   }
+  ,
+  "137": {
+    "title": "",
+    "assets": [
+      {
+        "title": "Lend USDC",
+        "principalToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "assets": [
+          {
+            "tokenId": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "USDC/WETH"
+          },
+          {
+            "tokenId": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "USDC/WMATIC"
+          },
+          {
+            "tokenId": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+            "name": "USDC/WBTC"
+          },
+          {
+            "tokenId": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+            "name": "USDC/STG"
+          },
+          {
+            "tokenId": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+            "name": "USDC/GHST"
+          },
+          {
+            "tokenId": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+            "name": "USDC/SAND"
+          },
+          {
+            "tokenId": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+            "name": "USDC/WOO"
+          },
+          {
+            "tokenId": "0xe5417af564e4bfda1c483642db72007871397896",
+            "name": "USDC/GNS"
+          },
+          {
+            "tokenId": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+            "name": "USDC/CRV"
+          },
+          {
+            "tokenId": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+            "name": "USDC/AAVE"
+          },
+          {
+            "tokenId": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "name": "USDC/LINK"
+          },
+          {
+            "tokenId": "0xE261D618a959aFfFd53168Cd07D12E37B26761db",
+            "name": "USDC/DIMO"
+          },
+          {
+            "tokenId": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+            "name": "USDC/MANA"
+          }
+        ]
+      },
+      {
+        "title": "Lend USDT",
+        "principalToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+        "assets": [
+          {
+            "tokenId": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "USDT/WETH"
+          },
+          {
+            "tokenId": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "USDT/WMATIC"
+          }
+        ]
+      },
+      {
+        "title": "Lend DAI",
+        "principalToken": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+        "assets": [
+          {
+            "tokenId": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "DAI/WETH"
+          },
+          {
+            "tokenId": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "DAI/WMATIC"
+          }
+        ]
+      },
+      {
+        "title": "Lend WETH",
+        "principalToken": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "assets": [
+          {
+            "tokenId": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "WETH/USDC"
+          },
+          {
+            "tokenId": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "name": "WETH/WMATIC"
+          }
+        ]
+      },
+      {
+        "title": "Lend WMATIC",
+        "principalToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "imageURL": "https://s2.tokeninsight.com/static/coins/img/currency/WrappedMatic_WMATIC.jpeg",
+        "assets": [
+          {
+            "tokenId": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "name": "WMATIC/WETH"
+          },
+          {
+            "tokenId": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "WMATIC/USDC"
+          }
+        ]
+      }
+    ]
+  }
 }
