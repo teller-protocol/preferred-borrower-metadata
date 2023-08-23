@@ -16,10 +16,6 @@
             "name": "USDC/PEPE"
           },
           {
-            "tokenId": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
-            "name": "USDC/UNIBOT"
-          },
-          {
             "tokenId": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
             "name": "USDC/RLB"
           },
@@ -32,12 +28,16 @@
             "name": "USDC/OX"
           },
           {
-            "tokenId": "0xf1182229b71e79e504b1d2bf076c15a277311e05",
-            "name": "USDC/LBR"
+            "tokenId": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
+            "name": "USDC/PRIME"
           },
           {
-            "tokenId": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
-            "name": "USDC/gOHM"
+            "tokenId": "0x07e0edf8ce600fb51d44f51e3348d77d67f298ae",
+            "name": "USDC/XRP"
+          },
+          {
+            "tokenId": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+            "name": "USDC/MOG"
           }
         ]
       },
@@ -55,16 +55,20 @@
             "name": "WETH/PEPE"
           },
           {
-            "tokenId": "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9",
-            "name": "WETH/UNIBOT"
-          },
-          {
             "tokenId": "0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d",
             "name": "WETH/RLB"
           },
           {
             "tokenId": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
             "name": "WETH/BITCOIN"
+          },
+          {
+            "tokenId": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+            "name": "WETH/PRIME"
+          },
+          {
+            "tokenId": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+            "name": "WETH/MOG"
           }
         ]
       },
@@ -657,8 +661,7 @@
         ]
       }
     ]
-  }
-  ,
+  },
   "137": {
     "title": "",
     "assets": [
