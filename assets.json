@@ -291,6 +291,14 @@
         "merkleFileName": "pokemon-gen-2",
         "imageURL": "https://teller.mypinata.cloud/ipfs/QmUr4jPtXg84Qk7MQMp6NCrKHzorG1xBuGeroVZXx6utHn",
         "assets": []
+      },
+
+      {
+        "title": "Pokemon Gen 3",
+        "slug": "pokemon-gen-3",
+        "merkleFileName": "pokemon-gen-3",
+        "imageURL": "https://teller.mypinata.cloud/ipfs/QmUr4jPtXg84Qk7MQMp6NCrKHzorG1xBuGeroVZXx6utHn",
+        "assets": []
       }
     ]
   },
