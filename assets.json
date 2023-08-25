@@ -653,15 +653,15 @@
         "assets": [
           {
             "tokenId": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
-            "name": "USDC/CBETH"
+            "name": "USDbC/CBETH"
           },
           {
             "tokenId": "0x4b1b0ce9613cd9ffc490b0ea7947238a056d73b9",
-            "name": "USDC/FOO"
+            "name": "USDbC/FOO"
           },
           {
             "tokenId": "0x0868d3aecd29fe4e4f4490b4d3d0e937c6ef07ec",
-            "name": "USDC/SIS"
+            "name": "USDbC/SIS"
           }
         ]
       },
@@ -672,7 +672,7 @@
         "assets": [
           {
             "tokenId": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-            "name": "CBETH/USDC"
+            "name": "CBETH/USDbC"
           },
           {
             "tokenId": "0x4b1b0ce9613cd9ffc490b0ea7947238a056d73b9",
