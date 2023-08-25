@@ -656,12 +656,24 @@
             "name": "USDbC/CBETH"
           },
           {
+            "tokenId": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+            "name": "USDbC/TOSHI"
+          },
+          {
             "tokenId": "0x4b1b0ce9613cd9ffc490b0ea7947238a056d73b9",
             "name": "USDbC/FOO"
           },
           {
             "tokenId": "0x0868d3aecd29fe4e4f4490b4d3d0e937c6ef07ec",
             "name": "USDbC/SIS"
+          },
+          {
+            "tokenId": "0x62f40e8c13f6c0201c789060191c72f7281a93de",
+            "name": "USDbC/ICE"
+          },
+          {
+            "tokenId": "0x48138275f394da1e9aba82eaaa9cf4a5b82bf013",
+            "name": "USDbC/ADAM"
           }
         ]
       },
@@ -675,12 +687,24 @@
             "name": "CBETH/USDbC"
           },
           {
+            "tokenId": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+            "name": "CBETH/TOSHI"
+          },
+          {
             "tokenId": "0x4b1b0ce9613cd9ffc490b0ea7947238a056d73b9",
             "name": "CBETH/FOO"
           },
           {
             "tokenId": "0x0868d3aecd29fe4e4f4490b4d3d0e937c6ef07ec",
             "name": "CBETH/SIS"
+          },
+          {
+            "tokenId": "0x62f40e8c13f6c0201c789060191c72f7281a93de",
+            "name": "CBETH/ICE"
+          },
+          {
+            "tokenId": "0x48138275f394da1e9aba82eaaa9cf4a5b82bf013",
+            "name": "CBETH/ADAM"
           }
         ]
       }

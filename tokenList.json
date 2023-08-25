@@ -335,6 +335,30 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://assets.coingecko.com/coins/images/31332/large/sis.png?1692589705"
+    },
+    {
+      "name": "Icebergy (Friend.tech)",
+      "address": "0x62f40e8c13f6c0201c789060191c72f7281a93de",
+      "symbol": "ICE",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://assets.coingecko.com/coins/images/31334/large/ice.jpeg?1692590375"
+    },
+    {
+      "name": "Adam Cochran (Friend.tech)",
+      "address": "0x48138275f394da1e9aba82eaaa9cf4a5b82bf013",
+      "symbol": "ADAM",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://assets.coingecko.com/coins/images/31335/large/adam.jpeg?1692592207"
+    },
+    {
+      "name": "Toshi",
+      "address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+      "symbol": "TOSHI",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://assets.coingecko.com/coins/images/31126/large/5dajOmhM_400x400.jpg?1690777236"
     }
   ]
 }
