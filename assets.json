@@ -8,6 +8,30 @@
         "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
         "assets": [
           {
+            "tokenId": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+            "name": "USDC/SHIB"
+          },
+          {
+            "tokenId": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+            "name": "USDC/FLOKI"
+          },
+          {
+            "tokenId": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
+            "name": "USDC/BABYDOGE"
+          },
+          {
+            "tokenId": "0x3832d2f059e55934220881f831be501d180671a7",
+            "name": "USDC/RENDOGE"
+          },
+          {
+            "tokenId": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+            "name": "USDC/ELON"
+          },
+          {
+            "tokenId": "0x27C70Cd1946795B66be9d954418546998b546634",
+            "name": "USDC/LEASH"
+          },
+          {
             "tokenId": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "name": "USDC/WETH"
           },

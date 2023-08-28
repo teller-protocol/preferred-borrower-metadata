@@ -335,6 +335,78 @@
       "decimals": 18,
       "chainId": 8453,
       "logoURI": "https://assets.coingecko.com/coins/images/31332/large/sis.png?1692589705"
+    },
+    {
+      "name": "Icebergy (Friend.tech)",
+      "address": "0x62f40e8c13f6c0201c789060191c72f7281a93de",
+      "symbol": "ICE",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://assets.coingecko.com/coins/images/31334/large/ice.jpeg?1692590375"
+    },
+    {
+      "name": "Adam Cochran (Friend.tech)",
+      "address": "0x48138275f394da1e9aba82eaaa9cf4a5b82bf013",
+      "symbol": "ADAM",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://assets.coingecko.com/coins/images/31335/large/adam.jpeg?1692592207"
+    },
+    {
+      "name": "Toshi",
+      "address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+      "symbol": "TOSHI",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://assets.coingecko.com/coins/images/31126/large/5dajOmhM_400x400.jpg?1690777236"
+    },
+    {
+      "name": "Shiba Inu",
+      "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/11939/large/shiba.png?1622619446"
+    },
+    {
+      "name": "FLOKI",
+      "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+      "symbol": "FLOKI",
+      "decimals": 9,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/16746/large/PNG_image.png?1643184642"
+    },
+    {
+      "name": "Baby Doge Coin",
+      "address": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
+      "symbol": "BABYDOGE",
+      "decimals": 9,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/16125/large/babydoge.jpg?1676303229"
+    },
+    {
+      "name": "renDOGE",
+      "address": "0x3832d2f059e55934220881f831be501d180671a7",
+      "symbol": "RENDOGE",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/13796/large/Dogecoin.jpg?1628072827"
+    },
+    {
+      "name": "Dogelon Mars",
+      "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+      "symbol": "ELON",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/14962/large/6GxcPRo3_400x400.jpg?1619157413"
+    },
+    {
+      "name": "Doge Killer",
+      "address": "0x27C70Cd1946795B66be9d954418546998b546634",
+      "symbol": "LEASH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15802/large/Leash.png?1621931543"
     }
   ]
 }
