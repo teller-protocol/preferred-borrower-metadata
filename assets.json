@@ -680,6 +680,10 @@
             "name": "USDbC/CBETH"
           },
           {
+            "tokenId": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+            "name": "USDbC/TOSHI"
+          },
+          {
             "tokenId": "0x4b1b0ce9613cd9ffc490b0ea7947238a056d73b9",
             "name": "USDbC/FOO"
           },
