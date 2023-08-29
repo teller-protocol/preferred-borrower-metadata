@@ -864,7 +864,7 @@
         "assets": [
           {
             "tokenId": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
-            "name": "USDC/USDC.e"
+            "name": "USDC/WETH"
           }
         ]
       }
