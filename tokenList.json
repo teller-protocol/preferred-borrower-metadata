@@ -407,6 +407,22 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://assets.coingecko.com/coins/images/15802/large/Leash.png?1621931543"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 5000,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     }
   ]
 }
