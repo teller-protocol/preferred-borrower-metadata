@@ -93,6 +93,13 @@
         ]
       },
       {
+        "title": "3 Digit Triplets",
+        "slug": "3-digit-triples",
+        "merkleFileName": "3-digit-triplets",
+        "imageURL": "https://teller.mypinata.cloud/ipfs/QmYiNp8Zm1UR2N9o578yR91LCchKrYFRCnpgPe1uvfLiFG",
+        "assets": []
+      },
+      {
         "title": "3 Digit Palindromes",
         "slug": "3-digit-palindromes",
         "merkleFileName": "3-digit-palindromes",
