@@ -876,5 +876,21 @@
         ]
       }
     ]
+  },
+  "11155111": {
+    "title": "",
+    "assets": [
+      {
+        "title": "Lend USDC",
+        "principalToken": "0x8267cf9254734c6eb452a7bb9aaf97b392258b21",
+        "imageURL": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "assets": [
+          {
+            "tokenId": "0xD0dF82dE051244f04BfF3A8bB1f62E1cD39eED92",
+            "name": "USDC/WETH"
+          }
+        ]
+      }
+    ]
   }
 }
