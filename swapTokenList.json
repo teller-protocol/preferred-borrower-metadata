@@ -78,7 +78,7 @@
       "symbol": "eUSD",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://lybra.finance/images/icon/eUSD.svg"
+      "logoURI": "https://teller.mypinata.cloud/ipfs/QmPKScwQxoXyhtSS14idpd2GNn8Cq2Uf81M98n2DYaMFWi"
     },
     {
       "name": "USDCoin",
