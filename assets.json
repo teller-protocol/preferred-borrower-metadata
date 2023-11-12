@@ -333,6 +333,27 @@
         "merkleFileName": "base-single-ethmoji",
         "imageURL": "https://teller.mypinata.cloud/ipfs/QmUY5ecRzan3ahojPGgF7oavcpBf1xTmeHFpwuBherM3Ch",
         "assets": []
+      },
+      {
+        "title": "3 Digit AAB",
+        "slug": "AAB",
+        "merkleFileName": "AAB",
+        "imageURL": "https://teller.mypinata.cloud/ipfs/QmaFewnhZYGAijXrirQW9DgStFFb9Ztjazyx56XEwwMsZf",
+        "assets": []
+      },
+      {
+        "title": "3 Digit ABB",
+        "slug": "ABB",
+        "merkleFileName": "ABB",
+        "imageURL": "https://teller.mypinata.cloud/ipfs/QmYHinz1BuBdYXu6nqfJFGyVpoFinv5vfoua5tD1oRDp9y",
+        "assets": []
+      },
+      {
+        "title": "3 Digit ABC",
+        "slug": "ABC",
+        "merkleFileName": "ABC",
+        "imageURL": "https://teller.mypinata.cloud/ipfs/QmeVAke3jNDqg9xfdu8kvVPP9zj1211ok7XbYrFnXj45Jp",
+        "assets": []
       }
     ]
   },
